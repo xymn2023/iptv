@@ -9,12 +9,6 @@ http://115.52.94.12:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 http://171.43.64.173:9901/tsfile/live/faacts/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/安徽卫视" tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视",安徽卫视
 http://221.13.232.63:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,安阳新闻综合
-http://221.13.232.63:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,北京卡通
-http://115.52.94.12:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,北京卡通
-http://221.13.232.63:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/北京卫视" tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视",北京卫视
 http://61.48.19.180:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/北京卫视" tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视",北京卫视
@@ -63,72 +57,24 @@ http://115.52.94.12:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 http://124.67.13.53:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/贵州卫视" tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="卫视",贵州卫视
 http://115.52.94.12:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,杭州TV1
-http://124.90.45.52:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/河北卫视" tvg-id="河北卫视" tvg-name="河北卫视" group-title="卫视",河北卫视
 http://61.48.19.180:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/河北卫视" tvg-id="河北卫视" tvg-name="河北卫视" group-title="卫视",河北卫视
 http://124.90.45.52:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/河北卫视" tvg-id="河北卫视" tvg-name="河北卫视" group-title="卫视",河北卫视
 http://115.52.94.12:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,河南电视剧频道
-http://182.114.50.237:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,河南电视剧频道
-http://115.52.94.12:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,河南电视剧频道
-http://221.13.232.63:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,河南都市报道
-http://182.114.50.237:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,河南都市频道
-http://115.52.94.12:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,河南都市频道
-http://221.13.232.63:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,河南法制报道
-http://182.114.50.237:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,河南法制频道
-http://115.52.94.12:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,河南法制频道
-http://221.13.232.63:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,河南公共频道
-http://115.52.94.12:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,河南公共频道
-http://221.13.232.63:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,河南民生
-http://182.114.50.237:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,河南民生频道
-http://115.52.94.12:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,河南民生频道
-http://221.13.232.63:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/河南卫视" tvg-id="河南卫视" tvg-name="河南卫视" group-title="卫视",河南卫视
 http://124.90.45.52:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/河南卫视" tvg-id="河南卫视" tvg-name="河南卫视" group-title="省内",河南卫视
-http://182.114.50.237:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/河南卫视" tvg-id="河南卫视" tvg-name="河南卫视" group-title="卫视",河南卫视
 http://221.13.232.63:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/河南卫视" tvg-id="河南卫视" tvg-name="河南卫视" group-title="卫视",河南卫视高清
 http://115.52.94.12:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,河南新农村频道
-http://115.52.94.12:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,河南新闻频道
-http://182.114.50.237:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,河南新闻频道
-http://115.52.94.12:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,河南新闻频道
-http://221.13.232.63:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/黑龙江卫视" tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视",黑龙江卫视
 http://124.67.13.53:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/黑龙江卫视" tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视",黑龙江卫视
 http://124.90.45.52:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/黑龙江卫视" tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视",黑龙江卫视
 http://115.52.94.12:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,湖北电视台
-http://171.43.64.173:9901/tsfile/live/faacts/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,湖北公共新闻
-http://171.43.64.173:9901/tsfile/live/faacts/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,湖北经视
-http://171.43.64.173:9901/tsfile/live/faacts/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,湖北垄上
-http://171.43.64.173:9901/tsfile/live/faacts/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/湖北卫视" tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="卫视",湖北卫视
 http://124.67.13.53:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/湖北卫视" tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="卫视",湖北卫视
@@ -139,8 +85,6 @@ http://182.114.50.237:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=
 http://115.52.94.12:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/湖北卫视" tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="卫视",湖北卫视
 http://171.43.64.173:9901/tsfile/live/faacts/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,湖北影视
-http://171.43.64.173:9901/tsfile/live/faacts/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/湖南卫视" tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视",湖南卫视
 http://61.48.19.180:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/湖南卫视" tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视",湖南卫视
@@ -159,8 +103,6 @@ http://124.67.13.53:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
 http://124.90.45.52:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/吉林卫视" tvg-id="吉林卫视" tvg-name="吉林卫视" group-title="卫视",吉林卫视
 http://115.52.94.12:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/嘉佳卡通" tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" group-title="少儿",嘉佳卡通
-http://115.52.94.12:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/江苏卫视" tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视",江苏卫视
 http://61.48.19.180:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/江苏卫视" tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视",江苏卫视
@@ -179,12 +121,6 @@ http://124.90.45.52:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 http://115.52.94.12:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/金鹰卡通" tvg-id="金鹰卡通" tvg-name="金鹰卡通" group-title="卫视",金鹰卡通
 http://124.90.45.52:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/金鹰卡通" tvg-id="金鹰卡通" tvg-name="金鹰卡通" group-title="少儿",金鹰卡通
-http://115.52.94.12:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/金鹰卡通" tvg-id="金鹰卡通" tvg-name="金鹰卡通" group-title="推荐",金鹰卡通
-http://221.13.232.63:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,经典电影
-http://115.52.94.12:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/辽宁卫视" tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视",辽宁卫视
 http://61.48.19.180:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/辽宁卫视" tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视",辽宁卫视
@@ -195,8 +131,6 @@ http://124.90.45.52:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 http://182.114.50.237:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/辽宁卫视" tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视",辽宁卫视
 http://115.52.94.12:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,民生休闲
-http://124.90.45.52:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/内蒙古卫视" tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" group-title="卫视",内蒙古卫视
 http://42.237.83.9:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/宁夏卫视" tvg-id="宁夏卫视" tvg-name="宁夏卫视" group-title="卫视",宁夏卫视
@@ -205,8 +139,6 @@ http://124.90.45.52:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 http://115.52.94.12:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/宁夏卫视" tvg-id="宁夏卫视" tvg-name="宁夏卫视" group-title="卫视",宁夏卫视
 http://42.237.83.9:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,钱江频道
-http://124.90.45.52:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/青海卫视" tvg-id="青海卫视" tvg-name="青海卫视" group-title="卫视",青海卫视
 http://124.90.45.52:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/山东卫视" tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视",山东卫视
@@ -241,28 +173,18 @@ http://124.90.45.52:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 http://182.114.50.237:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/深圳卫视" tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视",深圳卫视
 http://115.52.94.12:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,十堰经济旅游
-http://171.43.64.173:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,十堰新闻
-http://171.43.64.173:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/四川卫视" tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视",四川卫视
 http://115.52.94.12:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/天津卫视" tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视",天津卫视
 http://61.48.19.180:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/天津卫视" tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视",天津卫视
 http://115.52.94.12:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,相声小品
-http://221.13.232.63:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/新疆卫视" tvg-id="新疆卫视" tvg-name="新疆卫视" group-title="卫视",新疆卫视
 http://115.52.94.12:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/云南卫视" tvg-id="云南卫视" tvg-name="云南卫视" group-title="卫视",云南卫视
 http://115.52.94.12:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/云南卫视" tvg-id="云南卫视" tvg-name="云南卫视" group-title="卫视",云南卫视
 http://171.43.64.173:9901/tsfile/live/faacts/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,浙江经视
-http://124.90.45.52:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,浙江少儿
-http://124.90.45.52:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/浙江卫视" tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视",浙江卫视
 http://61.48.19.180:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/浙江卫视" tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视",浙江卫视
@@ -277,14 +199,92 @@ http://115.52.94.12:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 http://171.43.64.173:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/浙江卫视" tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视",浙江卫视
 http://221.13.232.63:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,安阳新闻综合
+http://221.13.232.63:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,北京卡通
+http://221.13.232.63:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,杭州TV1
+http://124.90.45.52:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,河南电视剧频道
+http://182.114.50.237:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,河南电视剧频道
+http://115.52.94.12:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,河南电视剧频道
+http://221.13.232.63:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,河南都市报道
+http://182.114.50.237:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,河南都市频道
+http://115.52.94.12:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,河南都市频道
+http://221.13.232.63:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,河南法制报道
+http://182.114.50.237:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,河南法制频道
+http://115.52.94.12:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,河南法制频道
+http://221.13.232.63:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,河南公共频道
+http://115.52.94.12:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,河南公共频道
+http://221.13.232.63:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,河南民生
+http://182.114.50.237:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,河南民生频道
+http://115.52.94.12:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,河南民生频道
+http://221.13.232.63:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/河南卫视" tvg-id="河南卫视" tvg-name="河南卫视" group-title="省内",河南卫视
+http://182.114.50.237:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,河南新农村频道
+http://115.52.94.12:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,河南新闻频道
+http://182.114.50.237:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,河南新闻频道
+http://115.52.94.12:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,河南新闻频道
+http://221.13.232.63:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,湖北电视台
+http://171.43.64.173:9901/tsfile/live/faacts/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,湖北公共新闻
+http://171.43.64.173:9901/tsfile/live/faacts/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,湖北经视
+http://171.43.64.173:9901/tsfile/live/faacts/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,湖北垄上
+http://171.43.64.173:9901/tsfile/live/faacts/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,湖北影视
+http://171.43.64.173:9901/tsfile/live/faacts/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,民生休闲
+http://124.90.45.52:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,钱江频道
+http://124.90.45.52:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,浙江经视
+http://124.90.45.52:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,浙江少儿
+http://124.90.45.52:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,浙江新闻
 http://124.90.45.52:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,中央教育
-http://171.43.64.173:9901/tsfile/live/faacts/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,北京卡通
+http://115.52.94.12:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/嘉佳卡通" tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" group-title="少儿",嘉佳卡通
+http://115.52.94.12:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/金鹰卡通" tvg-id="金鹰卡通" tvg-name="金鹰卡通" group-title="少儿",金鹰卡通
+http://115.52.94.12:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/金鹰卡通" tvg-id="金鹰卡通" tvg-name="金鹰卡通" group-title="推荐",金鹰卡通
+http://221.13.232.63:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,相声小品
+http://221.13.232.63:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,经典电影
+http://115.52.94.12:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,十堰经济旅游
+http://171.43.64.173:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,十堰新闻
+http://171.43.64.173:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,周口电视台1
 http://115.52.94.12:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,周口电视台2
 http://115.52.94.12:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,中央教育
+http://171.43.64.173:9901/tsfile/live/faacts/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV10" tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视",CCTV-10
 http://221.13.232.63:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV11" tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视",CCTV-11
