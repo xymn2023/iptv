@@ -2,14 +2,14 @@ name: Auto Update
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 1,9,17 * * *'
-  push:
-    paths-ignore:
-      - 。github
-      - 。gitignore
-      - LICENSE
-      - logo.png
+  # schedule:
+  #   - cron: '0 1,9,17 * * *'
+  # push:
+  #   paths-ignore:
+  #     - .github
+  #     - .gitignore
+  #     - LICENSE
+  #     - logo.png
 
 env:
   TZ: Asia/Shanghai
