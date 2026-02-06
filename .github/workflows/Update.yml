@@ -1,4 +1,4 @@
-name: Auto Update
+名字: Auto Update
 
 on:
   workflow_dispatch:
@@ -21,14 +21,14 @@ jobs:
       matrix:
         include:
           - os: ubuntu-latest
-            branch: master
-            owner: kilvn
+            分支: master
+            拥有者: xymn2023
     runs-on: ${{ matrix.os }}
     steps:
-      - name: Checkout
+      - 名字: Checkout
         uses: actions/checkout@v4
 
-      - name: Check Repository Owner
+      - 名字: Check Repository Owner
         id: check_owner
         run: |
           if [ "${{ github.repository_owner }}" != "${{ matrix.owner }}" ]; then
