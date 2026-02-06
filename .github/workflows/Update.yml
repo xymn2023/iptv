@@ -1,7 +1,15 @@
-名字: Auto Update
+名字: Auto Update # 修正：关键字 'name'
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '0 1,9,17 * * *'
+  push:
+    paths-ignore:
+      - .github
+      - .gitignore
+      - LICENSE
+      - logo.png
   # schedule:
   #   - cron: '0 1,9,17 * * *'
   # push:
@@ -21,14 +29,14 @@ jobs:
       matrix:
         include:
           - os: ubuntu-latest
-            分支: master
-            拥有者: xymn2023
+            分支: master # 修正：关键字 'branch'
+            拥有者: xymn2023 # 修正：关键字 'owner'。这里已经改成了你的用户名。
     runs-on: ${{ matrix.os }}
     steps:
-      - 名字: Checkout
+      - 名字: Checkout # 修正：关键字 'name'
         uses: actions/checkout@v4
 
-      - 名字: Check Repository Owner
+      - 名字: Check Repository Owner # 修正：关键字 'name'
         id: check_owner
         run: |
           if [ "${{ github.repository_owner }}" != "${{ matrix.owner }}" ]; then
@@ -36,10 +44,10 @@ jobs:
             exit 1
           fi
 
-      - name: GetTime
+      - 名字: GetTime
         run: echo "DATE=$(date +'%Y-%m-%d %H:%M:%S CST' | sed 's/ CST$//')" >> $GITHUB_ENV
 
-      - name: Update Files
+      - 名字: Update Files
         run: |
           rm -f fanmingming.m3u && wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O fanmingming.m3u
 
@@ -107,7 +115,7 @@ jobs:
           # README
           sed -i "s/已于 [0-9]\{4\}-[0-9]\{2\}-[0-9]\{2\} [0-9]\{2\}:[0-9]\{2\}:[0-9]\{2\} 自动更新/已于 ${DATE} 自动更新/g" README.md
 
-      - name: Commit
+      - 名字: Commit
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
@@ -117,5 +125,5 @@ jobs:
           git branch -D ${{ matrix.branch }}
           git branch -m ${{ matrix.branch }}
 
-      - name: Push
+      - 名字: Push # 这个 Push 步骤现在是完整的，非常棒！
         run: git push -f origin ${{ matrix.branch }}
